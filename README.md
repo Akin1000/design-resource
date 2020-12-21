@@ -3,4 +3,4 @@
 
 
 ##Course outline
-[mock up design](https://pmafrica.co)
+* [mock up design](https://pmafrica.co)
