@@ -3,12 +3,12 @@
 
 ## Table of content
 
-* [Design Tools](#*Design-Tools*)
-* [Resourse](#*Resourse*) 
-* [Case study/Portfolio](Case-study-/Portfolio)
-* UI Blogs to Read From
-* Design Insipration
-* Vidoes
+* [Design Tools](#Design-Tools*)
+* [Resourse](#Resourse*) 
+* [Case study/Portfolio](#Case-study-/Portfolio)
+* [UI Blogs to Read From](#UI-Blogs-to-Read-From)
+* [Design Insipration](#Design-Insipration)
+* [Vidoes](#Vidoes)
 
 
 
