@@ -1,5 +1,6 @@
-##design-resource
-[courseoutline](#3course-outline)
+#Design Resource
+
+[Course Outline](#course-outline)
 
 
 ##Course outline
