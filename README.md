@@ -4,8 +4,8 @@
 ## Table of content
 
 * [Design Tools](#*Design-Tools*)
-* Resourse 
-* Case study/Portfolio
+* [Resourse](#*Resourse*) 
+* [Case study/Portfolio](Case-study-/Portfolio)
 * UI Blogs to Read From
 * Design Insipration
 * Vidoes
