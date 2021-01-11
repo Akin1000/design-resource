@@ -9,6 +9,15 @@
 * [UI Blogs to Read From](#UI-Blogs-to-Read-From)
 * [Design Insipration](#Design-Insipration)
 * [Vidoes](#Vidoes)
+* [Mentorship Platform](#Mentorship-Platform)
+* [Work to re-design](#Work-to-re-design)
+* [Youtube vid](#Youtube-vid)
+* [Materials to read](#Materials-to-read)
+* [Course](#Course)
+* [Design insipration](#Design-insipration)
+
+
+
 
 
 
