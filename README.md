@@ -72,6 +72,11 @@ Illustration:
 
 ##Youtube vid
 (https://www.youtube.com/watch?v=QwF9a56WFWA&feature=emb_rel_pause)
+(https://www.youtube.com/watch?v=u44pBnAn7cM...persona user)
+(https://www.youtube.com/watch?v=auQCdrRfYas&feature=emb_rel_end)
+(https://www.youtube.com/watch?v=UXOLJy0E7Pg&feature=emb_rel_pause)
+(https://www.youtube.com/watch?v=ykHClgOUUj8&feature=emb_rel_pause)
+
 
 
 
