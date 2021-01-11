@@ -71,11 +71,26 @@ Illustration:
 * [[UI Jar](https://uijar.com/)
 
 ##Youtube vid
-(https://www.youtube.com/watch?v=QwF9a56WFWA&feature=emb_rel_pause)
-(https://www.youtube.com/watch?v=u44pBnAn7cM...persona user)
-(https://www.youtube.com/watch?v=auQCdrRfYas&feature=emb_rel_end)
-(https://www.youtube.com/watch?v=UXOLJy0E7Pg&feature=emb_rel_pause)
-(https://www.youtube.com/watch?v=ykHClgOUUj8&feature=emb_rel_pause)
+* [persona user1](https://www.youtube.com/watch?v=QwF9a56WFWA&feature=emb_rel_pause)
+* [persona user2](https://www.youtube.com/watch?v=u44pBnAn7cM)
+* [wireframes](https://www.youtube.com/watch?v=ykHClgOUUj8&feature=emb_rel_pause)
+* [wireframes2](https://www.youtube.com/watch?v=UXOLJy0E7Pg&feature=emb_rel_pause)
+* [wireframes3](https://www.youtube.com/watch?v=auQCdrRfYas&feature=emb_rel_end)
+
+##Mentorship Platform
+* [adplist.org](https://adplist.org/mentors)
+* [lunchclub.com](https://lunchclub.com/weekly?token=d1e350a7172ba2dc67f171ac&email_ref=34)
+
+##Work to re-design
+* [Adidas-Website-Redesign-Concept](https://www.behance.net/gallery/107594361/Adidas-Website-Redesign-Concept?tracking_source=search_projects_recommended%7Ce%20commerce%20web%20design%20shoes)
+* [Medlife-Mobile-App-UXUI](https://www.behance.net/gallery/101332961/Medlife-Mobile-App-UXUI?tracking_source=search_projects_recommended%7Cmobile)
+* [Finance-Mobile-App-UI-UX](https://www.behance.net/gallery/69579243/Finance-Mobile-App-UI-UX?tracking_source=search_projects_recommended%7Cmobile)
+* [Mobile-player](https://www.behance.net/gallery/100893227/Mobile-player?tracking_source=search_projects_recommended%7Cmobile)
+
+
+
+
+
 
 
 
