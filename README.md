@@ -26,6 +26,7 @@ Best front for ui design:
 * [open San] Best for web
 * [montserat]
 * [proxima Nova] Best for content centric web & app
+* [lato fornt] best for credit card design
 
 Color:
 * [color Hunt](https://colorhunt.co)
@@ -36,6 +37,18 @@ Illustration:
 * [illlustrations.designresourc](https://illlustrations.co/?ref=designresourc.es/)
 * [icons8.com](https://icons8.com/illustrations?ref=designresourc.es/)
 * [storyset](https://storyset.com)
+
+Pictures:
+* [pixabay](https://pixabay.com/)
+* [remove.bg](https://remove.bg)
+
+Userflow:
+* [miro](https://miro.com/)
+* [licidchart](https://www.lucidchart.com/pages/)
+
+Design games:
+* [cantunsee.space](https://cantunsee.space/)
+
 
 ##Resource
 * [designresourc](https://www.designresourc.es/)
@@ -48,6 +61,8 @@ Illustration:
 * [fianace](https://www.behance.net/gallery/95491533/Money-transfer-A-Better-Way-to-Handle-Your-Money/)
 * [investment savings](https://dedamioloketuyi.medium.com/designing-an-application-for-saving-investment-tailored-to-millenials-a-ux-case-study-b83403648932/)
 * [mockup](https://www.mockplus.com/blog/post/ux-case-study/)
+* [ux design casestudyprocess](https://medium.com/nyc-design/ux-ui-design-process-for-beginner-753952bb2241)
+* [how to build ur own casestudy](https://uxdesign.cc/case-study-template-8832941a9d1b)
 
 ##UI Blogs to Read From
 * [invisionapp.com](https://www.invisionapp.com/inside-design/how-to-wireframe/)
