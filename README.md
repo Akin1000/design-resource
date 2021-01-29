@@ -20,6 +20,7 @@
 
 Front:
 * [google front](https://fonts.google.com/)
+* [front scale](https://type-scale.com/)
 
 Best front for ui design:
 * [san Fransico] Best for modern web design & app
