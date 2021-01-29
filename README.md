@@ -21,7 +21,7 @@
 Front:
 * [google front](https://fonts.google.com/)
 * [front scale](https://type-scale.com/)
-* [icons](https://ikonate.com/)
+
 
 Best front for ui design:
 * [san Fransico] Best for modern web design & app
@@ -39,6 +39,7 @@ Illustration:
 * [illlustrations.designresourc](https://illlustrations.co/?ref=designresourc.es/)
 * [icons8.com](https://icons8.com/illustrations?ref=designresourc.es/)
 * [storyset](https://storyset.com)
+* [ikonate](https://ikonate.com/)
 
 Pictures:
 * [pixabay](https://pixabay.com/)
