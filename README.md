@@ -34,12 +34,14 @@ Color:
 * [color Hunt](https://colorhunt.co)
 * [web Gradient](https://webgradients.com/)
 * [0to255](https://www.0to255.com)
+* [colormuzik](https://colors.muz.li/)
 
 Illustration:
 * [illlustrations.designresourc](https://illlustrations.co/?ref=designresourc.es/)
 * [icons8.com](https://icons8.com/illustrations?ref=designresourc.es/)
 * [storyset](https://storyset.com)
 * [ikonate](https://ikonate.com/)
+* [emojipedia](https://emojipedia.org/)
 
 Pictures:
 * [pixabay](https://pixabay.com/)
@@ -60,6 +62,7 @@ Design games:
 * [material.io](http://material.io)
 * [google material](https://drive.google.com/drive/folders/1YkVOIKL3zMxXSnd4Grcc6wOAc366-MGi)
 * [grid design](https://medium.muz.li/responsive-grid-design-ultimate-guide-7aa41ca7892)
+* [productdesigntips](https://productdesign.tips/topics/case-studies)
 
 ##Case study/Portfolio
 * [medical app](https://www.behance.net/gallery/91410737/Medico-Online-Medical-Services-Case-Study/)
