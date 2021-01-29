@@ -21,6 +21,7 @@
 Front:
 * [google front](https://fonts.google.com/)
 * [front scale](https://type-scale.com/)
+* [icons](https://ikonate.com/)
 
 Best front for ui design:
 * [san Fransico] Best for modern web design & app
@@ -85,7 +86,8 @@ Design games:
 
 ##Design Insipration
 * [awwwards.com](https://www.awwwards.com/)
-* [[UI Jar](https://uijar.com/)
+* [UI Jar](https://uijar.com/)
+* [design take](https://designsystemsrepo.com/design-systems-recent/)
 
 ##Youtube vid
 * [persona user1](https://www.youtube.com/watch?v=QwF9a56WFWA&feature=emb_rel_pause)
