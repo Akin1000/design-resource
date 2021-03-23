@@ -16,6 +16,7 @@
 * [Course](#Course)
 * [Design insipration](#Design-insipration)
 * [portfliohut](#hunt-portfolio)
+* [Design ideas](#ideasfordesign)
 
 ##Design Tools
 
@@ -43,6 +44,7 @@ Illustration:
 * [storyset](https://storyset.com)
 * [ikonate](https://ikonate.com/)
 * [emojipedia](https://emojipedia.org/)
+* [fb mockup](https://design.facebook.com/toolsandresources/devices/)
 
 Pictures:
 * [pixabay](https://pixabay.com/)
@@ -94,6 +96,10 @@ Portfolio hunt:
 * [uxdesign.cc](https://uxdesign.cc/organizing-ux-research-with-google-forms-and-sheets-b375411c664c)
 * [toptal.com](https://www.toptal.com/designers/data-visualization/dashboard-design-best-practices)
 * [behance.net](https://www.behance.net/gallery/101128847/Application-for-easy-creation-educational-materials)
+* [designcise.com](https://www.designcise.com/web/tutorial/how-to-design-user-interfaces-for-industrial-iot-systems)
+* [lepa nija book](https://start.uxdesign.cc/?ref=lapaninja)
+* [lepa nija book2](https://uxplanet.org/10-rules-for-better-ux-design-a9ab98d49f)
+* [design thinkingfromlepanija](https://xd.adobe.com/ideas/principles/design-systems/design-thinking-process/)
 
 ##Design Insipration
 * [awwwards.com](https://www.awwwards.com/)
@@ -101,6 +107,13 @@ Portfolio hunt:
 * [design take](https://designsystemsrepo.com/design-systems-recent/)
 * [screenlane](https://screenlane.com/)
 * [siteinspire](https://www.siteinspire.com/)
+* [ui8](https://ui8.net/)
+* [lepanija](https://www.lapa.ninja/)
+
+
+##Designideasforproject
+* [briefz.biz](http://briefz.biz/)
+* [ideasgrab](https://www.ideasgrab.com/)
 
 ##Youtube vid
 * [persona user1](https://www.youtube.com/watch?v=QwF9a56WFWA&feature=emb_rel_pause)
